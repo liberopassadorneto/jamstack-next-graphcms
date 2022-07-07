@@ -1,0 +1,1 @@
+uRQL -> client que suporta graphQL (axios para graphQL)
